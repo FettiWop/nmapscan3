@@ -1,5 +1,7 @@
 # nmapscan3
-
+must be ran as root or sudo
+USE AT YOUR OWN RISK!!!!!
+I am not liable for any damages you may incur on any IoT Device(s)
 
 So this is bascially just a python script to enable easier nmap scanning, using flags that i normally use.
 
